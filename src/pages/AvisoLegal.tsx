@@ -27,7 +27,7 @@ export default function AvisoLegal() {
             <ul className="list-disc pl-6 mt-2 space-y-1">
               <li><strong className="text-foreground">Titular</strong>: miCalculadora.es</li>
               <li><strong className="text-foreground">Domicilio</strong>: Madrid, España</li>
-              <li><strong className="text-foreground">Email de contacto</strong>: calculadoradefiniquito@gmail.com</li>
+              <li><strong className="text-foreground">Email de contacto</strong>: calculadoradefiniquito2036@gmail.com</li>
             </ul>
           </section>
 

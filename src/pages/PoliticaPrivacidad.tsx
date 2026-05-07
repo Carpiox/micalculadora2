@@ -24,7 +24,7 @@ export default function PoliticaPrivacidad() {
           <section>
             <h2 className="text-xl font-bold font-display text-foreground mb-2">1. Responsable del tratamiento</h2>
             <p>El responsable del tratamiento de los datos personales recogidos en este sitio web es el titular de <strong className="text-foreground">miCalculadora.es</strong> (en adelante, "el Responsable").</p>
-            <p className="mt-2">Puedes contactarnos a través de: <strong className="text-foreground">calculadoradefiniquito@gmail.com</strong></p>
+            <p className="mt-2">Puedes contactarnos a través de: <strong className="text-foreground">calculadoradefiniquito2026@gmail.com</strong></p>
           </section>
 
           <section>
@@ -82,7 +82,7 @@ export default function PoliticaPrivacidad() {
               <li>Derecho a la <strong className="text-foreground">portabilidad</strong> de los datos.</li>
               <li>Derecho de <strong className="text-foreground">oposición</strong> al tratamiento.</li>
             </ul>
-            <p className="mt-2">Para ejercer estos derechos, contacta con nosotros en <strong className="text-foreground">calculadoradefiniquito@gmail.com</strong>. También tienes derecho a presentar una reclamación ante la <strong className="text-foreground">Agencia Española de Protección de Datos (AEPD)</strong> — <a href="https://www.aepd.es" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">www.aepd.es</a>.</p>
+            <p className="mt-2">Para ejercer estos derechos, contacta con nosotros en <strong className="text-foreground">calculadoradefiniquito2026@gmail.com</strong>. También tienes derecho a presentar una reclamación ante la <strong className="text-foreground">Agencia Española de Protección de Datos (AEPD)</strong> — <a href="https://www.aepd.es" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">www.aepd.es</a>.</p>
           </section>
 
           <section>
